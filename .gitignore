@@ -1,0 +1,5 @@
+conf/*.crt
+conf/*.key
+conf/certs/*
+*.swp
+*.swo
